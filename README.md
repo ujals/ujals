@@ -23,16 +23,11 @@
 
 ### Technology
 <p align="left">
-<a href="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="36" height="36" alt="Unity" /></a>
-  
+<a href="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="36" height="36" alt="Unity" /></a>  
 <a href="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" width="36" height="36" alt="Arduino" /></a>
-
 <a href="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="36" height="36" alt="Microsoft Azure" /></a>
-
-  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /> 
-  
-   <a href="https://od.lk/d/Ml8yMjA1ODI3OTFf/download.png" target="_blank" rel="noreferrer"><img src="https://od.lk/d/Ml8yMjA1ODI3OTFf/download.png" width="36" height="36" alt="Thingsboard" /></a> 
-  
+  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />  
+   <a href="https://od.lk/d/Ml8yMjA1ODI3OTFf/download.png" target="_blank" rel="noreferrer"><img src="https://od.lk/d/Ml8yMjA1ODI3OTFf/download.png" width="40" height="20" alt="Thingsboard" /></a>  
 </p>
 
 ### Socials
