@@ -2,91 +2,54 @@
 
 ![Profile GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Contact
+## About Me
 
-- 📞 +917904671582
-- ✉️ avicii.9813@gmail.com
-- LinkedIn: [linkedin.com/in/kshetrimayum-ujal-singhb41860228](linkedin.com/in/kshetrimayum-ujal-singhb41860228)
-- Location: Kanglatongbi, Manipur, India
+* 🌍  I'm based in Imphal, India currently.
+* ✉️  You can contact me at [avicii.9813@gmail.com](mailto:avicii.9813@gmail.com)
+* 🧠  Currently, I am expanding my expertise in Hyperledger Fabric tools for blockchain development.
+* 🤝  I'm open to collaborating on interesting projects and open-source contributions. Feel free to reach out via email for collaborations.
+* ⚡  I'm a dedicated and results-driven professional, known for my intense energy, inquisitive mindset, and rapid innovation. 🤌🏾
 
-## Contact Profile
+<a href="[Your Twitter URL]" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/[your-twitter-handle]?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="[Your GitHub URL]" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/[your-github-username]?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 💼 IoT Engineer (On-site/Remote)
-- 🖥️ Mobile and Laptop Hardware-OS/Software
-
-## Skills
+### Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/iot-colored.svg" width="36" height="36" alt="IoT" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kafka-colored.svg" width="36" height="36" alt="Kafka" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/devops-colored.svg" width="36" height="36" alt="DevOps" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cloud-colored.svg" width="36" height="36" alt="Cloud" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cpp-colored.svg" width="36" height="36" alt="C++" />
+  <a href="[Java URL]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="Javascript" /></a>
 </p>
 
-## Education
+### Socials
 
-- BE. Computer Science and Engineering
-  - Anna University - Graduation (67%)
+<p align="left"> 
+  <a href="[Discord URL]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="[GitHub URL]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="[Instagram URL]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="[LinkedIn URL]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="[Twitter URL]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-- Higher Secondary (12th)
-  - COHSEM (82.4%)
+### Badges
 
-- Secondary (10th)
-  - BOSEM (66.66%)
+<b>My GitHub Stats</b>
 
-## Work Experience
+<a href="[Your GitHub URL]"><img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="[your-github-username]'s GitHub stats" /></a>
 
-### IoT Engineer, Nibiaa Devices (July 2022 - 2023)
+<a href="[Your GitHub URL]"><img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- Contributed to a challenging IoT project involving data collection and analytics.
-- Developed user-friendly widgets and dashboards for informed decision-making.
-- Collaborated on the development of an intuitive and responsive product app using Android Studio.
-- Gained experience in SaaS development, sensor technologies, cloud platforms, and app development.
-- Demonstrated effective communication and collaboration skills within a team environment.
+<a href="[Your GitHub URL]"><img src="https://activity-graph.herokuapp.com/graph?username=[your-github-username]&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## Languages
+<a href="[Your GitHub URL]" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-- English
-- Hindi
-- Nepali
-- Manipuri
+<b>Top Repositories</b>
 
-## Hobbies
-
-- Chess
-- Gaming
-
-## Training & Certification
-
-- Web Development Bootcamp - Udemy | December 2022 to February 2023.
-- Laptop and Mobile Repairing Certificate Course - Build Responsive Website using HTML5, CSS3, JS And Bootstrap From Educba
-- Nibiaa Devices - IoT/DevOps Training completed.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujals&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujals&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=ujals&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujals&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
-
-## Top Repositories
-
-[![Database-SQL](https://github-readme-stats.vercel.app/api/pin/?username=ujals&repo=Database-SQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/ujals/Database-SQL)
-
-[![Big-Data-and-Hadoop-with-Romen](https://github-readme-stats.vercel.app/api/pin/?username=ujals&repo=Big-Data-and-Hadoop-with-Romen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/ujals/Big-Data-and-Hadoop-with-Romen)
-
+<div width="100%" align="center">
+  <a href="[Your GitHub Repo URL]" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=[your-github-username]&repo=[your-repo-name]&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="[Your GitHub Repo URL]" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=[your-github-username]&repo=[your-repo-name]&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
 <!---
-<YourGitHubUsername>/<YourGitHubUsername> is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[your-github-username]/[your-github-username] is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
