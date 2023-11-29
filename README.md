@@ -16,15 +16,18 @@
 
 ## Skills
 
-- Python
-- JavaScript
-- HTML/CSS
-- IoT
-- Kafka
-- DevOps
-- Cloud
-- SQL
-- C++
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/iot-colored.svg" width="36" height="36" alt="IoT" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kafka-colored.svg" width="36" height="36" alt="Kafka" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/devops-colored.svg" width="36" height="36" alt="DevOps" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cloud-colored.svg" width="36" height="36" alt="Cloud" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cpp-colored.svg" width="36" height="36" alt="C++" />
+</p>
 
 ## Education
 
@@ -67,21 +70,21 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<ujals>&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujals&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<ujals>&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujals&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=<ujals>&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=ujals&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<a <href="http://www.github.com/ujals">&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujals&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 ## Top Repositories
 
-[![Database-SQL](https://github-readme-stats.vercel.app/api/pin/?username=<YourGitHubUsername>&repo=Database-SQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/<YourGitHubUsername>/Database-SQL)
+[![Database-SQL](https://github-readme-stats.vercel.app/api/pin/?username=ujals&repo=Database-SQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/ujals/Database-SQL)
 
-[![Big-Data-and-Hadoop-with-Romen](https://github-readme-stats.vercel.app/api/pin/?username=<YourGitHubUsername>&repo=Big-Data-and-Hadoop-with-Romen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/<YourGitHubUsername>/Big-Data-and-Hadoop-with-Romen)
+[![Big-Data-and-Hadoop-with-Romen](https://github-readme-stats.vercel.app/api/pin/?username=ujals&repo=Big-Data-and-Hadoop-with-Romen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/ujals/Big-Data-and-Hadoop-with-Romen)
 
 <!---
 <YourGitHubUsername>/<YourGitHubUsername> is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
