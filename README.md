@@ -1,4 +1,4 @@
-[<img src="https://github.com/ujals/ujals/blob/main/my.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://od.lk/s/Ml8yMjA2MjAwNjFf/ezgif-5-fe2003020b.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=ujals.ujals&color=00cf00)
 <!--
