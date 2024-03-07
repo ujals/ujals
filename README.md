@@ -89,13 +89,10 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-| ![GitHub Metrics](metrics.plugin.achievements.svg) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujals&theme=city_lights) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujals&theme=city_lights) |![Repositories per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujals&theme=city_lights)
 | :-: | :-: |
 
-| ![GitHub Metrics](github-metrics.svg) | ![GitHub Metrics](metrics.plugin.isocalendar.fullyear.svg) |
-| :-: | :-: |
-
-| ![GitHub Metrics](metrics.plugin.languages.details.svg)  | ![GitHub Metrics](metrics.plugin.habits.charts.svg) |
+| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujals&theme=city_lights)  | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ujals&theme=city_lights&utcOffset=8) | 
 | :-: | :-: |
 
 |  ![Mom's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujals&theme=city_lights) | [![GitHub Streak](https://streak-stats.demolab.com?user=Bubhux&theme=transparent)](https://git.io/streak-stats) |
