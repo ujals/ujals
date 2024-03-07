@@ -1,6 +1,6 @@
 [<img src="https://od.lk/s/Ml8yMjA2MjAwNjFf/ezgif-5-fe2003020b.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=ujals.ujals&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=https://github.com/ujals)
 <!--
 **ujals/ujals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
