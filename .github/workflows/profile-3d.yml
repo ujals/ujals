@@ -22,3 +22,6 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+              - name: Metrics embed
+                uses: lowlighter/metrics@v3.34
+            
