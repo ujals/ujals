@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ujals)
 #### Languages   
 <p align="left">
   <a href="https://skillicons.dev">
