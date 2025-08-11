@@ -14,12 +14,8 @@
 
 <!-- Stats -->
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ujals&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="150" src="https://streak-stats.demolab.com?user=ujals&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages (donut) -->
-<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ujals&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujals&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages (Donut)" />
 </p>
 
