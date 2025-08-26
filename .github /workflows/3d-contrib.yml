@@ -2,8 +2,8 @@ name: GitHub 3D Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   build:
@@ -11,10 +11,14 @@ jobs:
     name: generate-github-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          USERNAME: ${{ github.repository_owner }}
+      
+      - name: Generate 3D Contributions
+        uses: jstrieb/github-stats@v3
+        with:
+          filename: profile-3d-contrib.svg
+          username: ${{ github.repository_owner }}
+          color_scheme: green
+          
       - name: Commit & Push
         run: |
           git config --global user.name "GitHub Action"
