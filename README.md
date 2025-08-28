@@ -45,10 +45,11 @@ I am an **IoT Solution Architect** with **3+ years of experience** in **end-to-e
 </div>
 
 
-## <img src="https://img.shields.io/badge/🔥_GitHub_Streak-00FF41?style=flat&labelColor=000000&color=000000" alt="GitHub Streak" />
+## <img src="https://img.shields.io/badge/🔥_GitHub_Streak-00FF41?style=flat&labelColor=000000&color=000000" alt="GitHub Streak Title" />
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ujals&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="GitHub Streak" />
 </div>
+
 
 
 ## <img src="https://img.shields.io/badge/🌐_Website-00FF41?style=flat&labelColor=000000&color=000000" alt="Website" />
